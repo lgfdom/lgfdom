@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @lgfdom,
+- 👀 I’m interested in automations since 1967 in industry and microcontrolers since 2003,
+- 🌱 I’m currently learning to install differents modules on microcontrolers.
+- An old retiered.
